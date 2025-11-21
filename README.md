@@ -76,7 +76,7 @@ Arquivos disponíveis na pasta /documentacao.
 
 🔗 Link do Projeto no Wokwi
 
-https://wokwi.com/projects/446071901866050561
+[https://wokwi.com/projects/446071901866050561](https://wokwi.com/projects/448256863847332865)
 
 📝 Artigo acadêmico
 
